@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/marthajhs04/LeetCode-Data-Science/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/marthajhs04/LeetCode-Data-Science/tree/master/0183-customers-who-never-order) |
 | [1148-article-views-i](https://github.com/marthajhs04/LeetCode-Data-Science/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
